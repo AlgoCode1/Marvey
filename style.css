@@ -9,6 +9,7 @@ a {
     background-color: black;
     padding: 6px;
     border-radius: 7px;
+    opacity:0.7;
 }
 
 p{
@@ -70,5 +71,10 @@ li{
     position: fixed;
     right: 9px;
 }
+
+a:hover {
+    opacity:1;
+}
+
 
 
