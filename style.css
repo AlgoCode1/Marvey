@@ -70,3 +70,7 @@ li{
     position: fixed;
     right: 9px;
 }
+
+.ab:visited{
+    background:grey
+}
