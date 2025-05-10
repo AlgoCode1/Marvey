@@ -55,6 +55,6 @@ a:visited{
     border: 2px dashed grey;
 }
 
-.qwerty{
-    font-size: 14px;
+li a{
+    font-size: 14px
 }
