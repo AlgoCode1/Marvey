@@ -55,11 +55,21 @@ a:visited{
     border: 2px dashed grey;
 }
 
-li a{
+/* li a{
     font-size: 16px
 }
 
 li a:hover{
+    font-size: 16px;
+    border: 2px dashed rgb(255, 179, 0);
+    color: rgb(32, 23, 0);
+} */
+
+.qq{
+    font-size: 16px
+}
+
+.qq:hover{
     font-size: 16px;
     border: 2px dashed rgb(255, 179, 0);
     color: rgb(32, 23, 0);
