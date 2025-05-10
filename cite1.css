@@ -56,5 +56,11 @@ a:visited{
 }
 
 li a{
-    font-size: 14px
+    font-size: 16px
+}
+
+li a:hover{
+    font-size: 16px;
+    border: 2px dashed rgb(255, 179, 0);
+    color: rgb(32, 23, 0);
 }
