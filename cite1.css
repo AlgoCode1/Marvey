@@ -54,3 +54,7 @@ a:visited{
     color: grey;
     border: 2px dashed grey;
 }
+
+.qwerty{
+    font-size: 14px;
+}
